@@ -1,0 +1,40 @@
+.link-astrobin {
+    fill: white;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+        90deg,
+        rgba(27,24,31,1) 21.2%,
+        rgba(50,4,89,1) 84.8%
+    );
+}
+
+.link-signal {
+    fill: white;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+        90deg,
+        rgba(131,58,180,1) 0%,
+        rgba(253,29,29,1) 50%,
+        rgba(252,176,69,1) 100%
+    );
+}
+
+.link-untappd {
+    fill: white;
+    background: rgb(43,43,43);
+    background: linear-gradient(
+        180deg,
+        rgba(240,231,204,1) 11.1%,
+        rgba(145,127,68,1) 52.8%
+    );
+
+}
+.link-mcastro-space {
+    fill: white;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(
+        90deg,
+        rgba(27,24,31,1) 21.2%,
+        rgba(50,4,89,1) 84.8%
+    );
+}
